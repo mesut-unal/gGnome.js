@@ -1,0 +1,445 @@
+{
+  "settings": {
+    "y_axis": {
+      "title": "copy number",
+      "visible": true
+    },
+    "y.axis": "cn",
+    "description": "<h3>JaBbA<\/h3> "
+  },
+  "intervals": [
+    {
+      "chromosome": "12",
+      "startPoint": 30786051,
+      "endPoint": 30786202,
+      "iid": 929,
+      "y": 7,
+      "annotation": "",
+      "title": "929",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "12",
+      "startPoint": 30786203,
+      "endPoint": 30859202,
+      "iid": 930,
+      "y": 8,
+      "annotation": "",
+      "title": "930",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "12",
+      "startPoint": 30859203,
+      "endPoint": 30859366,
+      "iid": 931,
+      "y": 4,
+      "annotation": "",
+      "title": "931",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "12",
+      "startPoint": 30859367,
+      "endPoint": 30860747,
+      "iid": 932,
+      "y": 2,
+      "annotation": "",
+      "title": "932",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "12",
+      "startPoint": 32494954,
+      "endPoint": 32530402,
+      "iid": 945,
+      "y": 10,
+      "annotation": "",
+      "title": "945",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "12",
+      "startPoint": 32530403,
+      "endPoint": 32530524,
+      "iid": 946,
+      "y": 9,
+      "annotation": "",
+      "title": "946",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "12",
+      "startPoint": 32530525,
+      "endPoint": 32583469,
+      "iid": 947,
+      "y": 8,
+      "annotation": "",
+      "title": "947",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "12",
+      "startPoint": 32583470,
+      "endPoint": 32583598,
+      "iid": 948,
+      "y": 2,
+      "annotation": "",
+      "title": "948",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "12",
+      "startPoint": 32583599,
+      "endPoint": 32584202,
+      "iid": 949,
+      "y": 6,
+      "annotation": "",
+      "title": "949",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "13",
+      "startPoint": 22481411,
+      "endPoint": 22481602,
+      "iid": 1520,
+      "y": 14,
+      "annotation": "",
+      "title": "1520",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "13",
+      "startPoint": 22481603,
+      "endPoint": 22511802,
+      "iid": 1521,
+      "y": 19,
+      "annotation": "",
+      "title": "1521",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "13",
+      "startPoint": 22511803,
+      "endPoint": 22561002,
+      "iid": 1522,
+      "y": 25,
+      "annotation": "",
+      "title": "1522",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "13",
+      "startPoint": 22561003,
+      "endPoint": 22580602,
+      "iid": 1523,
+      "y": 23,
+      "annotation": "",
+      "title": "1523",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "13",
+      "startPoint": 22580603,
+      "endPoint": 22602002,
+      "iid": 1524,
+      "y": 22,
+      "annotation": "",
+      "title": "1524",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "13",
+      "startPoint": 22722686,
+      "endPoint": 22724402,
+      "iid": 1530,
+      "y": 23,
+      "annotation": "",
+      "title": "1530",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "13",
+      "startPoint": 22724403,
+      "endPoint": 22734402,
+      "iid": 1531,
+      "y": 25,
+      "annotation": "",
+      "title": "1531",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "13",
+      "startPoint": 22734403,
+      "endPoint": 22734677,
+      "iid": 1532,
+      "y": 22,
+      "annotation": "",
+      "title": "1532",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "13",
+      "startPoint": 22734678,
+      "endPoint": 22803602,
+      "iid": 1533,
+      "y": 21,
+      "annotation": "",
+      "title": "1533",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "13",
+      "startPoint": 22803603,
+      "endPoint": 22803986,
+      "iid": 1534,
+      "y": 20,
+      "annotation": "",
+      "title": "1534",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "13",
+      "startPoint": 22803987,
+      "endPoint": 22974127,
+      "iid": 1535,
+      "y": 19,
+      "annotation": "",
+      "title": "1535",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "13",
+      "startPoint": 23821003,
+      "endPoint": 23852524,
+      "iid": 1546,
+      "y": 20,
+      "annotation": "",
+      "title": "1546",
+      "type": "interval",
+      "strand": "*"
+    },
+    {
+      "chromosome": "13",
+      "startPoint": 23852525,
+      "endPoint": 23852602,
+      "iid": 1547,
+      "y": 16,
+      "annotation": "",
+      "title": "1547",
+      "type": "interval",
+      "strand": "*"
+    }
+  ],
+  "connections": [
+    {
+      "cid": 1358,
+      "source": 1530,
+      "sink": -1531,
+      "title": "REF",
+      "type": "REF",
+      "weight": 23,
+      "annotation": ""
+    },
+    {
+      "cid": 1359,
+      "source": 1531,
+      "sink": -1532,
+      "title": "REF",
+      "type": "REF",
+      "weight": 22,
+      "annotation": ""
+    },
+    {
+      "cid": 1360,
+      "source": 1532,
+      "sink": -1520,
+      "title": "DUP-like",
+      "type": "ALT",
+      "weight": 1,
+      "annotation": ""
+    },
+    {
+      "cid": 1361,
+      "source": 1532,
+      "sink": -1533,
+      "title": "REF",
+      "type": "REF",
+      "weight": 21,
+      "annotation": ""
+    },
+    {
+      "cid": 1348,
+      "source": 1520,
+      "sink": -1521,
+      "title": "REF",
+      "type": "REF",
+      "weight": 14,
+      "annotation": ""
+    },
+    {
+      "cid": 1362,
+      "source": 1533,
+      "sink": -1534,
+      "title": "REF",
+      "type": "REF",
+      "weight": 20,
+      "annotation": ""
+    },
+    {
+      "cid": 1349,
+      "source": 1521,
+      "sink": -1522,
+      "title": "REF",
+      "type": "REF",
+      "weight": 19,
+      "annotation": ""
+    },
+    {
+      "cid": 1363,
+      "source": 1534,
+      "sink": -945,
+      "title": "TRA-like",
+      "type": "ALT",
+      "weight": 1,
+      "annotation": ""
+    },
+    {
+      "cid": 1364,
+      "source": 1534,
+      "sink": -1535,
+      "title": "REF",
+      "type": "REF",
+      "weight": 19,
+      "annotation": ""
+    },
+    {
+      "cid": 1350,
+      "source": 1522,
+      "sink": -1523,
+      "title": "REF",
+      "type": "REF",
+      "weight": 23,
+      "annotation": ""
+    },
+    {
+      "cid": 777,
+      "source": 945,
+      "sink": -946,
+      "title": "REF",
+      "type": "REF",
+      "weight": 9,
+      "annotation": ""
+    },
+    {
+      "cid": 778,
+      "source": 946,
+      "sink": -929,
+      "title": "DUP-like",
+      "type": "ALT",
+      "weight": 1,
+      "annotation": ""
+    },
+    {
+      "cid": 779,
+      "source": 946,
+      "sink": -947,
+      "title": "REF",
+      "type": "REF",
+      "weight": 8,
+      "annotation": ""
+    },
+    {
+      "cid": 1351,
+      "source": 1523,
+      "sink": -1524,
+      "title": "REF",
+      "type": "REF",
+      "weight": 22,
+      "annotation": ""
+    },
+    {
+      "cid": 761,
+      "source": 929,
+      "sink": -930,
+      "title": "REF",
+      "type": "REF",
+      "weight": 7,
+      "annotation": ""
+    },
+    {
+      "cid": 780,
+      "source": 947,
+      "sink": -948,
+      "title": "REF",
+      "type": "REF",
+      "weight": 2,
+      "annotation": ""
+    },
+    {
+      "cid": 762,
+      "source": 930,
+      "sink": -931,
+      "title": "REF",
+      "type": "REF",
+      "weight": 4,
+      "annotation": ""
+    },
+    {
+      "cid": 781,
+      "source": 948,
+      "sink": -949,
+      "title": "REF",
+      "type": "REF",
+      "weight": 1,
+      "annotation": ""
+    },
+    {
+      "cid": 2777,
+      "source": 931,
+      "sink": -932,
+      "title": "REF",
+      "type": "REF",
+      "weight": 0,
+      "annotation": ""
+    },
+    {
+      "cid": 3797,
+      "source": 931,
+      "sink": 1546,
+      "title": "TRA-like",
+      "type": "ALT",
+      "weight": 4,
+      "annotation": ""
+    },
+    {
+      "cid": 1377,
+      "source": 1546,
+      "sink": -1547,
+      "title": "REF",
+      "type": "REF",
+      "weight": 16,
+      "annotation": ""
+    }
+  ]
+}

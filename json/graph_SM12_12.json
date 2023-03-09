@@ -440,7 +440,7 @@
       "type": "REF",
       "weight": 2,
       "annotation": ""
-    }
+    },
     {
       "cid": 134,
       "source": 106,
@@ -10943,6 +10943,6 @@
       "type": "REF",
       "weight": 1,
       "annotation": ""
-    },
+    }
   ]
 }
